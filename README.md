@@ -15,5 +15,3 @@ This repository contains code examples used in the official Cloud Build [documen
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
 
 Testrube
-
-
